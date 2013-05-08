@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" id = "sideScreen">
+	</Window>
+	<Window class="container1" id = "navWindow">
+	</Window>
+	<Window class="container2" id = "win">
+	</Window>
+</Alloy>

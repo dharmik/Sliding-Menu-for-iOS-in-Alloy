@@ -1,0 +1,17 @@
+".container": {
+	backgroundColor:"white",
+	top:0,
+    left:0,
+    width:150
+},
+"#navWindow": {
+	width:320
+},
+"#win": {
+	title:'Main Window',
+    backgroundColor:'#28292c',
+    barColor:'#28292c',
+    moving:false,
+    axis:0 
+},
+
